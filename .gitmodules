@@ -319,9 +319,6 @@
 [submodule "mods/inventory_plus"]
 	path = mods/inventory_plus
 	url = https://github.com/cornernote/minetest-inventory_plus.git
-[submodule "mods/3d_armor"]
-	path = mods/3d_armor
-	url = https://github.com/sys4-fr/minetest-3d_armor.git
 [submodule "mods/mobs"]
 	path = mods/mobs
 	url = https://github.com/sys4-fr/mobs_redo.git
@@ -332,7 +329,6 @@
 	path = minetest_game
 	url = https://github.com/minetest/minetest_game.git
 	branch = master
-[submodule "mods/moreplants"]
-	path = mods/moreplants
-	url = https://github.com/sys4-fr/moreplants.git
-	branch = dirt_rainforest
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/sys4-fr/minetest-3d_armor.git
