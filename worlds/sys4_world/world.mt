@@ -39,6 +39,7 @@ load_mod_colormachine = true
 load_mod_connected_chests = true
 load_mod_cottages = true
 load_mod_cozy = true
+load_mod_craftguide = true
 load_mod_creeper = true
 load_mod_darkage = true
 load_mod_diet = true

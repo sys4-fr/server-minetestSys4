@@ -1,9 +1,6 @@
 [submodule "minetest_game"]
 	path = minetest_game
 	url = https://github.com/minetest/minetest_game.git
-[submodule "mods/3d_armor"]
-	path = mods/3d_armor
-	url = https://github.com/stujones11/minetest-3d_armor.git
 [submodule "mods/ambience"]
 	path = mods/ambience
 	url = https://github.com/Neuromancer56/MinetestAmbienceServer.git
@@ -328,6 +325,12 @@
 [submodule "mods/inventory_plus"]
 	path = mods/inventory_plus
 	url = https://github.com/cornernote/minetest-inventory_plus.git
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/sys4-fr/minetest-3d_armor.git
 [submodule "mods/mobs"]
 	path = mods/mobs
-	url = https://github.com/tenplus1/mobs_redo.git
+	url = https://github.com/sys4-fr/mobs_redo.git
+[submodule "mods/craftguide"]
+	path = mods/craftguide
+	url = https://github.com/minetest-mods/craftguide.git
