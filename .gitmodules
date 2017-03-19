@@ -1,6 +1,3 @@
-[submodule "minetest_game"]
-	path = minetest_game
-	url = https://github.com/minetest/minetest_game.git
 [submodule "mods/ambience"]
 	path = mods/ambience
 	url = https://github.com/Neuromancer56/MinetestAmbienceServer.git
@@ -334,3 +331,7 @@
 [submodule "mods/craftguide"]
 	path = mods/craftguide
 	url = https://github.com/minetest-mods/craftguide.git
+[submodule "minetest_game"]
+	path = minetest_game
+	url = https://github.com/minetest/minetest_game.git
+	branch = stable-0.4
