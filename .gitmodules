@@ -334,4 +334,4 @@
 [submodule "minetest_game"]
 	path = minetest_game
 	url = https://github.com/minetest/minetest_game.git
-	branch = stable-0.4
+	branch = master
