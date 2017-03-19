@@ -229,9 +229,6 @@
 [submodule "mods/mobs_monster"]
 	path = mods/mobs_monster
 	url = https://github.com/tenplus1/mobs_monster.git
-[submodule "mods/mobs_redo"]
-	path = mods/mobs_redo
-	url = https://github.com/tenplus1/mobs_redo.git
 [submodule "mods/moreplants"]
 	path = mods/moreplants
 	url = https://github.com/D00Med/moreplants.git
@@ -334,3 +331,6 @@
 [submodule "mods/inventory_plus"]
 	path = mods/inventory_plus
 	url = https://github.com/cornernote/minetest-inventory_plus.git
+[submodule "mods/mobs"]
+	path = mods/mobs
+	url = https://github.com/tenplus1/mobs_redo.git
