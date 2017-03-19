@@ -220,9 +220,6 @@
 [submodule "mods/mobs_monster"]
 	path = mods/mobs_monster
 	url = https://github.com/tenplus1/mobs_monster.git
-[submodule "mods/moreplants"]
-	path = mods/moreplants
-	url = https://github.com/D00Med/moreplants.git
 [submodule "mods/mtfoods"]
 	path = mods/mtfoods
 	url = https://github.com/sys4-fr/mtfoods.git
