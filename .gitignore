@@ -1,5 +1,10 @@
-# Compiled
-*.elc
-
-# Packaging
-.cask
+/.project
+.~*
+~*
+*~
+*.od?#
+*.patch
+*.swp
+*.diff
+*.autosave
+.dir-locals.el

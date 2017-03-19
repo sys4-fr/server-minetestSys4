@@ -1,0 +1,333 @@
+[submodule "minetest_game"]
+	path = minetest_game
+	url = https://github.com/minetest/minetest_game.git
+[submodule "mods/3d_armor"]
+	path = mods/3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "mods/ambience"]
+	path = mods/ambience
+	url = https://github.com/Neuromancer56/MinetestAmbienceServer.git
+[submodule "mods/areas"]
+	path = mods/areas
+	url = https://github.com/ShadowNinja/areas.git
+[submodule "mods/arrow_signs"]
+	path = mods/arrow_signs
+	url = https://bitbucket.org/adrido/arrow_signs.git
+[submodule "mods/awards"]
+	path = mods/awards
+	url = https://github.com/minetest-mods/awards.git
+[submodule "mods/biome_lib"]
+	path = mods/biome_lib
+	url = https://github.com/minetest-mods/biome_lib.git
+[submodule "mods/blox"]
+	path = mods/blox
+	url = https://github.com/minetest-mods/blox.git
+[submodule "mods/bobblocks"]
+	path = mods/bobblocks
+	url = https://github.com/minetest-mods/BobBlocks.git
+[submodule "mods/bonemeal"]
+	path = mods/bonemeal
+	url = https://github.com/tenplus1/bonemeal.git
+[submodule "mods/boost_cart"]
+	path = mods/boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "mods/builtin_item"]
+	path = mods/builtin_item
+	url = https://github.com/tenplus1/builtin_item.git
+[submodule "mods/caverealms"]
+	path = mods/caverealms
+	url = https://github.com/HeroOfTheWinds/minetest-caverealms.git
+[submodule "mods/central_message"]
+	path = mods/central_message
+	url = git://repo.or.cz/minetest_central_message.git
+[submodule "mods/coloredwood"]
+	path = mods/coloredwood
+	url = https://github.com/minetest-mods/coloredwood.git
+[submodule "mods/colormachine"]
+	path = mods/colormachine
+	url = https://github.com/Sokomine/colormachine.git
+[submodule "mods/colouredstonebricks"]
+	path = mods/colouredstonebricks
+	url = https://github.com/davisonio/colouredstonebricks.git
+[submodule "mods/connected_chests"]
+	path = mods/connected_chests
+	url = https://github.com/HybridDog/connected_chests.git
+[submodule "mods/cottages"]
+	path = mods/cottages
+	url = https://github.com/Sokomine/cottages.git
+[submodule "mods/cozy"]
+	path = mods/cozy
+	url = https://github.com/minetest-mods/cozy.git
+[submodule "mods/unifieddyes"]
+	path = mods/unifieddyes
+	url = https://github.com/minetest-mods/unifieddyes.git
+[submodule "mods/castle"]
+	path = mods/castle
+	url = https://github.com/minetest-mods/castle.git
+[submodule "mods/unifiedbricks"]
+	path = mods/unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
+[submodule "mods/ilights"]
+	path = mods/ilights
+	url = https://github.com/minetest-mods/ilights.git
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/minetest-mods/pipeworks.git
+[submodule "mods/ts_doors"]
+	path = mods/ts_doors
+	url = https://github.com/minetest-mods/ts_doors.git
+[submodule "mods/moreblocks"]
+	path = mods/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "mods/moretrees"]
+	path = mods/moretrees
+	url = https://github.com/minetest-mods/moretrees.git
+[submodule "mods/gloopblocks"]
+	path = mods/gloopblocks
+	url = https://github.com/minetest-mods/gloopblocks.git
+[submodule "mods/more_chests"]
+	path = mods/more_chests
+	url = https://github.com/minetest-mods/more_chests.git
+[submodule "mods/digilines"]
+	path = mods/digilines
+	url = https://github.com/minetest-mods/digilines.git
+[submodule "mods/plantlife_modpack"]
+	path = mods/plantlife_modpack
+	url = https://github.com/minetest-mods/plantlife_modpack.git
+[submodule "mods/moremesecons"]
+	path = mods/moremesecons
+	url = https://github.com/minetest-mods/MoreMesecons.git
+[submodule "mods/signs_lib"]
+	path = mods/signs_lib
+	url = https://github.com/minetest-mods/signs_lib.git
+[submodule "mods/xdecor"]
+	path = mods/xdecor
+	url = https://github.com/minetest-mods/xdecor.git
+[submodule "mods/quartz"]
+	path = mods/quartz
+	url = https://github.com/minetest-mods/quartz.git
+[submodule "mods/intllib"]
+	path = mods/intllib
+	url = https://github.com/minetest-mods/intllib.git
+[submodule "mods/digtron"]
+	path = mods/digtron
+	url = https://github.com/minetest-mods/digtron.git
+[submodule "mods/mydoors"]
+	path = mods/mydoors
+	url = https://github.com/minetest-mods/mydoors.git
+[submodule "mods/sounding_line"]
+	path = mods/sounding_line
+	url = https://github.com/minetest-mods/sounding_line.git
+[submodule "mods/mapfix"]
+	path = mods/mapfix
+	url = https://github.com/minetest-mods/mapfix.git
+[submodule "mods/lapis"]
+	path = mods/lapis
+	url = https://github.com/minetest-mods/lapis.git
+[submodule "mods/lightning"]
+	path = mods/lightning
+	url = https://github.com/minetest-mods/lightning.git
+[submodule "mods/moreores"]
+	path = mods/moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "mods/maptools"]
+	path = mods/maptools
+	url = https://github.com/minetest-mods/maptools.git
+[submodule "mods/frame"]
+	path = mods/frame
+	url = https://github.com/minetest-mods/frame.git
+[submodule "mods/flowerpot"]
+	path = mods/flowerpot
+	url = https://github.com/minetest-mods/flowerpot.git
+[submodule "mods/playeranim"]
+	path = mods/playeranim
+	url = https://github.com/minetest-mods/playeranim.git
+[submodule "mods/diet"]
+	path = mods/diet
+	url = https://github.com/sys4-fr/diet.git
+[submodule "mods/tnt_extras"]
+	path = mods/tnt_extras
+	url = https://github.com/minetest-mods/tnt_extras.git
+[submodule "mods/painting"]
+	path = mods/painting
+	url = https://github.com/minetest-mods/painting.git
+[submodule "mods/display_blocks"]
+	path = mods/display_blocks
+	url = https://github.com/minetest-mods/display_blocks.git
+[submodule "mods/turtle"]
+	path = mods/turtle
+	url = https://github.com/minetest-mods/turtle.git
+[submodule "mods/darkage"]
+	path = mods/darkage
+	url = https://github.com/davisonio/darkage.git
+[submodule "mods/digicompute"]
+	path = mods/digicompute
+	url = https://github.com/octacian/digicompute.git
+[submodule "mods/digiline_stuff"]
+	path = mods/digiline_stuff
+	url = https://github.com/jogag/digiline-stuff.git
+[submodule "mods/digiterm"]
+	path = mods/digiterm
+	url = https://github.com/hdastwb/digiterm.git
+[submodule "mods/farming"]
+	path = mods/farming
+	url = https://github.com/tenplus1/farming.git
+[submodule "mods/farming_plus"]
+	path = mods/farming_plus
+	url = https://github.com/sys4-fr/farming_plus.git
+[submodule "mods/fishing"]
+	path = mods/fishing
+	url = https://github.com/MinetestForFun/fishing.git
+[submodule "mods/flags"]
+	path = mods/flags
+	url = https://github.com/bas080/flags.git
+[submodule "mods/flight"]
+	path = mods/flight
+	url = https://github.com/Amaz1/flight.git
+[submodule "mods/food"]
+	path = mods/food
+	url = https://github.com/sys4-fr/food.git
+[submodule "mods/food_sweet"]
+	path = mods/food_sweet
+	url = https://github.com/sys4-fr/food_sweet.git
+[submodule "mods/hbarmor"]
+	path = mods/hbarmor
+	url = git://repo.or.cz/minetest_hbarmor.git
+[submodule "mods/hbhunger"]
+	path = mods/hbhunger
+	url = git://repo.or.cz/minetest_hbhunger.git
+[submodule "mods/highlandpools"]
+	path = mods/highlandpools
+	url = https://github.com/paramat/highlandpools.git
+[submodule "mods/hudbars"]
+	path = mods/hudbars
+	url = git://repo.or.cz/minetest_hudbars.git
+[submodule "mods/jumping"]
+	path = mods/jumping
+	url = https://github.com/Jeija/minetest-mod-jumping.git
+[submodule "mods/lrfurn"]
+	path = mods/lrfurn
+	url = https://github.com/thefamilygrog66/lrfurn.git
+[submodule "mods/maidroid"]
+	path = mods/maidroid
+	url = https://github.com/tacigar/maidroid.git
+[submodule "mods/mana"]
+	path = mods/mana
+	url = git://repo.or.cz/minetest_mana.git
+[submodule "mods/markers"]
+	path = mods/markers
+	url = https://github.com/Sokomine/markers.git
+[submodule "mods/memorandum"]
+	path = mods/memorandum
+	url = https://github.com/Mossmanikin/memorandum.git
+[submodule "mods/mesecons"]
+	path = mods/mesecons
+	url = https://github.com/Jeija/minetest-mod-mesecons.git
+[submodule "mods/mobs_animal"]
+	path = mods/mobs_animal
+	url = https://github.com/tenplus1/mobs_animal.git
+[submodule "mods/mobs_monster"]
+	path = mods/mobs_monster
+	url = https://github.com/tenplus1/mobs_monster.git
+[submodule "mods/mobs_redo"]
+	path = mods/mobs_redo
+	url = https://github.com/tenplus1/mobs_redo.git
+[submodule "mods/moreplants"]
+	path = mods/moreplants
+	url = https://github.com/D00Med/moreplants.git
+[submodule "mods/mtfoods"]
+	path = mods/mtfoods
+	url = https://github.com/sys4-fr/mtfoods.git
+[submodule "mods/myroofs"]
+	path = mods/myroofs
+	url = https://github.com/minetest-mods/myroofs.git
+[submodule "mods/mysponge"]
+	path = mods/mysponge
+	url = https://github.com/DonBatman/mysponge.git
+[submodule "mods/nether"]
+	path = mods/nether
+	url = https://github.com/PilzAdam/nether.git
+[submodule "mods/nsspf"]
+	path = mods/nsspf
+	url = https://github.com/NPXcoot/nsspf.git
+[submodule "mods/orienteering"]
+	path = mods/orienteering
+	url = git://repo.or.cz/minetest_orienteering.git
+[submodule "mods/pdisc"]
+	path = mods/pdisc
+	url = https://github.com/HybridDog/pdisc.git
+[submodule "mods/pep"]
+	path = mods/pep
+	url = git://repo.or.cz/minetest_pep.git
+[submodule "mods/playereffects"]
+	path = mods/playereffects
+	url = git://repo.or.cz/minetest_playereffects.git
+[submodule "mods/mobs_water"]
+	path = mods/mobs_water
+	url = https://github.com/blert2112/mobs_water.git
+[submodule "mods/returnmirror"]
+	path = mods/returnmirror
+	url = git://repo.or.cz/minetest_returnmirror.git
+[submodule "mods/soccer"]
+	path = mods/soccer
+	url = https://github.com/kaeza/minetest-soccer.git
+[submodule "mods/sprint"]
+	path = mods/sprint
+	url = https://github.com/GunshipPenguin/sprint.git
+[submodule "mods/stained_glass"]
+	path = mods/stained_glass
+	url = https://github.com/VanessaE/stained_glass.git
+[submodule "mods/technic"]
+	path = mods/technic
+	url = https://github.com/minetest-technic/technic.git
+[submodule "mods/thirsty"]
+	path = mods/thirsty
+	url = https://github.com/bendeutsch/minetest-thirsty.git
+[submodule "mods/throwing"]
+	path = mods/throwing
+	url = https://gitlab.com/echoes91/throwing.git
+[submodule "mods/trmp_pack"]
+	path = mods/trmp_pack
+	url = https://github.com/xisd/trmp_Pack.git
+[submodule "mods/tsm_chests_dungeon"]
+	path = mods/tsm_chests_dungeon
+	url = git://repo.or.cz/minetest_tsm_chests_dungeon.git
+[submodule "mods/tsm_pyramids"]
+	path = mods/tsm_pyramids
+	url = git://repo.or.cz/minetest_pyramids/tsm_pyramids.git
+[submodule "mods/tsm_mines"]
+	path = mods/tsm_mines
+	url = git://repo.or.cz/tsm_mines.git
+[submodule "mods/u_skinsdb"]
+	path = mods/u_skinsdb
+	url = https://github.com/SmallJoker/minetest-u_skinsdb.git
+[submodule "mods/vector_extras"]
+	path = mods/vector_extras
+	url = https://github.com/HybridDog/vector_extras.git
+[submodule "mods/vines"]
+	path = mods/vines
+	url = https://github.com/bas080/vines.git
+[submodule "mods/volcano"]
+	path = mods/volcano
+	url = https://github.com/paramat/volcano.git
+[submodule "mods/weather_pack"]
+	path = mods/weather_pack
+	url = https://github.com/xeranas/weather_pack.git
+[submodule "mods/witchcraft"]
+	path = mods/witchcraft
+	url = https://github.com/D00Med/witchcraft.git
+[submodule "mods/worldedit"]
+	path = mods/worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "mods/bakedclay"]
+	path = mods/bakedclay
+	url = https://github.com/tenplus1/bakedclay.git
+[submodule "mods/moreflowers"]
+	path = mods/moreflowers
+	url = https://github.com/sys4-fr/moreflowers.git
+[submodule "mods/morefarming"]
+	path = mods/morefarming
+	url = https://github.com/sys4-fr/morefarming.git
+[submodule "mods/riesenpilz"]
+	path = mods/riesenpilz
+	url = https://github.com/HybridDog/riesenpilz
