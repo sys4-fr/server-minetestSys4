@@ -46,9 +46,6 @@
 [submodule "mods/colormachine"]
 	path = mods/colormachine
 	url = https://github.com/Sokomine/colormachine.git
-[submodule "mods/colouredstonebricks"]
-	path = mods/colouredstonebricks
-	url = https://github.com/davisonio/colouredstonebricks.git
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests.git
