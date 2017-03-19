@@ -130,7 +130,6 @@ load_mod_mobs_jellyfish = true
 load_mod_mobs_sharks = true
 load_mod_mobs_turtles = true
 load_mod_mobs_monster = true
-load_mod_mobs_water = true
 load_mod_moreblocks = true
 load_mod_more_chests = true
 load_mod_morefarming = true
