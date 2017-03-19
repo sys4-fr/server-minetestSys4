@@ -332,3 +332,7 @@
 	path = minetest_game
 	url = https://github.com/minetest/minetest_game.git
 	branch = master
+[submodule "mods/moreplants"]
+	path = mods/moreplants
+	url = https://github.com/sys4-fr/moreplants.git
+	branch = dirt_rainforest
