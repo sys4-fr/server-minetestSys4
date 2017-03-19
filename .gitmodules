@@ -331,3 +331,6 @@
 [submodule "mods/riesenpilz"]
 	path = mods/riesenpilz
 	url = https://github.com/HybridDog/riesenpilz
+[submodule "mods/inventory_plus"]
+	path = mods/inventory_plus
+	url = https://github.com/cornernote/minetest-inventory_plus.git

@@ -70,6 +70,7 @@ load_mod_hudbars = true
 load_mod_ilights = true
 load_mod_intllib = true
 load_mod_item_drop = true
+load_mod_inventory_plus = true
 load_mod_jumping = true
 load_mod_kpgmobs = true
 load_mod_lapis = true
