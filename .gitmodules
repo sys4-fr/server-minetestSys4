@@ -322,10 +322,6 @@
 [submodule "mods/craftguide"]
 	path = mods/craftguide
 	url = https://github.com/minetest-mods/craftguide.git
-[submodule "minetest_game"]
-	path = minetest_game
-	url = https://github.com/minetest/minetest_game.git
-	branch = master
 [submodule "mods/moreplants"]
 	path = mods/moreplants
 	url = https://github.com/sys4-fr/moreplants.git
@@ -335,3 +331,7 @@
 [submodule "mods/mobs"]
 	path = mods/mobs
 	url = https://github.com/tenplus1/mobs_redo.git
+[submodule "minetest_game"]
+	path = minetest_game
+	url = https://github.com/minetest/minetest_game.git
+	branch = stable-0.4
