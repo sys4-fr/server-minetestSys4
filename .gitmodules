@@ -316,9 +316,6 @@
 [submodule "mods/riesenpilz"]
 	path = mods/riesenpilz
 	url = https://github.com/HybridDog/riesenpilz
-[submodule "mods/inventory_plus"]
-	path = mods/inventory_plus
-	url = https://github.com/cornernote/minetest-inventory_plus.git
 [submodule "mods/craftguide"]
 	path = mods/craftguide
 	url = https://github.com/minetest-mods/craftguide.git
@@ -338,3 +335,6 @@
 [submodule "mods/bees"]
 	path = mods/bees
 	url = https://github.com/bas080/bees.git
+[submodule "mods/unified_inventory"]
+	path = mods/unified_inventory
+	url = https://github.com/minetest-technic/unified_inventory.git
