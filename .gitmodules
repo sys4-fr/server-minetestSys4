@@ -332,6 +332,6 @@
 [submodule "mods/minetest-3d_armor"]
 	path = mods/minetest-3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
-[submodule "mobs"]
+[submodule "mods/mobs"]
 	path = mods/mobs
 	url = https://github.com/tenplus1/mobs_redo.git
