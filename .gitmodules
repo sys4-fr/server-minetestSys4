@@ -319,9 +319,6 @@
 [submodule "mods/inventory_plus"]
 	path = mods/inventory_plus
 	url = https://github.com/cornernote/minetest-inventory_plus.git
-[submodule "mods/mobs"]
-	path = mods/mobs
-	url = https://github.com/sys4-fr/mobs_redo.git
 [submodule "mods/craftguide"]
 	path = mods/craftguide
 	url = https://github.com/minetest-mods/craftguide.git
@@ -335,3 +332,6 @@
 [submodule "mods/minetest-3d_armor"]
 	path = mods/minetest-3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "mobs"]
+	path = mods/mobs
+	url = https://github.com/tenplus1/mobs_redo.git
