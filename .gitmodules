@@ -335,3 +335,6 @@
 	path = minetest_game
 	url = https://github.com/minetest/minetest_game.git
 	branch = stable-0.4
+[submodule "mods/bees"]
+	path = mods/bees
+	url = https://github.com/bas080/bees.git
