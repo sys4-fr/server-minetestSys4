@@ -332,3 +332,6 @@
 [submodule "mods/moreplants"]
 	path = mods/moreplants
 	url = https://github.com/sys4-fr/moreplants.git
+[submodule "mods/minetest-3d_armor"]
+	path = mods/minetest-3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor.git
