@@ -228,6 +228,7 @@ load_mod_soccer = true
 load_mod_sounding_line = true
 load_mod_sprint = true
 load_mod_stained_glass = true
+load_mod_sys4 = true
 load_mod_concrete = true
 load_mod_extranodes = true
 load_mod_technic = true
