@@ -14,6 +14,7 @@ load_mod_areas = true
 load_mod_arrow_signs = true
 load_mod_awards = true
 load_mod_bakedclay = true
+load_mod_bees = true
 load_mod_biome_lib = true
 load_mod_blox = true
 load_mod_bobblocks = true
