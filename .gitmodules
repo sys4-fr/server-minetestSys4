@@ -148,9 +148,6 @@
 [submodule "mods/turtle"]
 	path = mods/turtle
 	url = https://github.com/minetest-mods/turtle.git
-[submodule "mods/darkage"]
-	path = mods/darkage
-	url = https://github.com/davisonio/darkage.git
 [submodule "mods/digicompute"]
 	path = mods/digicompute
 	url = https://github.com/octacian/digicompute.git
@@ -338,3 +335,6 @@
 [submodule "mods/unified_inventory"]
 	path = mods/unified_inventory
 	url = https://github.com/minetest-technic/unified_inventory.git
+[submodule "mods/darkage"]
+	path = mods/darkage
+	url = https://github.com/sys4-fr/darkage.git
