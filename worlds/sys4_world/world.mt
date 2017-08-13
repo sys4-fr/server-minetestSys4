@@ -72,6 +72,7 @@ load_mod_food_basic = true
 load_mod_food_sweet = true
 load_mod_frame = true
 load_mod_gloopblocks = true
+load_mod_glow = true
 load_mod_hbarmor = true
 load_mod_hbhunger = true
 load_mod_highlandpools = true
