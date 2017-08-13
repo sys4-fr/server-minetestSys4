@@ -1,3 +1,46 @@
+-- clear xdecor:stone_tile
+if minetest.get_modpath("xdecor") then
+   minetest.clear_craft(
+      { output = "xdecor:stone_tile",
+	recipe = {
+	   {"default:cobble", "default:cobble"},
+	   {"default:cobble", "default:cobble"}
+	}
+      })
+end
+
+-- override moreblocks:circle_stone_bricks
+if minetest.get_modpath("moreblocks") and minetest.get_modpath("xdecor") then
+   minetest.clear_craft(
+      {
+	 recipe = {
+	    {"default:stone", "default:stone", "default:stone"},
+	    {"default:stone", "", "default:stone"},
+	    {"default:stone", "default:stone", "default:stone"},
+	 }
+      })
+   
+   minetest.register_craft(
+      {
+	 output = "moreblocks:circle_stone_bricks 8",
+	 recipe = {
+	    {"default:stone", "default:stone", "default:stone"},
+	    {"default:stone", "default:coal_lump", "default:stone"},
+	    {"default:stone", "default:stone", "default:stone"}
+	 }
+      })
+
+   minetest.register_craft(
+      {
+	 output = "xdecor:stone_rune 4",
+	 recipe = {
+	    {"default:stone", "default:stone", "default:stone"},
+	    {"default:stone", "", "default:stone"},
+	    {"default:stone", "default:stone", "default:stone"}
+	 }
+      })
+end
+			  
 -- Make xdecor and food bowls to be usable to drink water
 if minetest.get_modpath("thirsty") then
 	if minetest.get_modpath("food") then
