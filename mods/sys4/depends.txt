@@ -1,3 +1,4 @@
+default?
 thirsty?
 food_basic?
 moreblocks?

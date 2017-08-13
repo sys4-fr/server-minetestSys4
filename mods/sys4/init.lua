@@ -40,6 +40,28 @@ if minetest.get_modpath("moreblocks") and minetest.get_modpath("xdecor") then
 	 }
       })
 end
+
+-- override default:furnace craft recipes
+if minetest.get_modpath("default") then
+   minetest.register_craft(
+      {
+	 output = "default:furnace",
+	 recipe = {
+	    {"default:cobble", "default:cobble", "default:cobble"},
+	    {"default:cobble", "", "default:cobble"},
+	    {"default:cobble", "default:cobble", "default:cobble"}
+	 }
+      })
+   minetest.register_craft(
+      {
+	 output = "default:furnace",
+	 recipe = {
+	    {"default:desert_cobble", "default:desert_cobble", "default:desert_cobble"},
+	    {"default:desert_cobble", "", "default:desert_cobble"},
+	    {"default:desert_cobble", "default:desert_cobble", "default:desert_cobble"}
+	 }
+      })
+end
 			  
 -- Make xdecor and food bowls to be usable to drink water
 if minetest.get_modpath("thirsty") then
