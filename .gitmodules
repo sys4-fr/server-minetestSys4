@@ -226,9 +226,6 @@
 [submodule "mods/mysponge"]
 	path = mods/mysponge
 	url = https://github.com/DonBatman/mysponge.git
-[submodule "mods/nether"]
-	path = mods/nether
-	url = https://github.com/PilzAdam/nether.git
 [submodule "mods/nsspf"]
 	path = mods/nsspf
 	url = https://github.com/NPXcoot/nsspf.git
