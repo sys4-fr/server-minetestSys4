@@ -4,3 +4,8 @@ food_basic?
 moreblocks?
 xdecor?
 technic?
+witchcraft?
+bones?
+bonemeal?
+vessels?
+farming?
