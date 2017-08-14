@@ -292,9 +292,6 @@
 [submodule "mods/weather_pack"]
 	path = mods/weather_pack
 	url = https://github.com/xeranas/weather_pack.git
-[submodule "mods/witchcraft"]
-	path = mods/witchcraft
-	url = https://github.com/D00Med/witchcraft.git
 [submodule "mods/worldedit"]
 	path = mods/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
@@ -338,3 +335,7 @@
 [submodule "mods/item_drop"]
 	path = mods/item_drop
 	url = https://github.com/tacotexmex/item_drop.git
+[submodule "mods/witchcraft"]
+	path = mods/witchcraft
+	url = https://github.com/sys4-fr/witchcraft.git
+	branch = fixes
