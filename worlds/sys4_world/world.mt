@@ -282,3 +282,4 @@ load_mod_worldedit_limited = true
 load_mod_worldedit_shortcommands = true
 load_mod_xdecor = true
 load_mod_zombie = true
+player_backend = files

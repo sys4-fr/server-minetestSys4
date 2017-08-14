@@ -206,43 +206,4 @@ if minetest.get_modpath("witchcraft") then
 	    end
 	 })
    end
-
-   -- Override potion green effect if farming_redo is loaded (bad call in original mod)
-   if farming.mod and farming.mod == "redo" then
-      minetest.override_item(
-	 "witchcraft:potion_green",
-	 {
-	    description = "Melon Potion",
-	    on_use = function(item, user, pointed_thing)
-	       local player = user:get_player_name()
-	       if pointed_thing.type == "node" and
-	       minetest.get_node(pointed_thing.above).name == "air" then
-		  if not minetest.is_protected(pointed_thing.above, player) then
-		     minetest.set_node(pointed_thing.above, {name="farming:melon_8"})
-		  else
-		     minetest.chat_send_player(player, "This area is protected.")
-		  end
-	       end
-	       local playerpos = user:getpos();
-	       minetest.add_particlespawner(
-		  5, --amount
-		  0.1, --time
-		  {x=playerpos.x-1, y=playerpos.y+1, z=playerpos.z-1}, --minpos
-		  {x=playerpos.x+1, y=playerpos.y+1, z=playerpos.z+1}, --maxpos
-		  {x=-0, y=-0, z=-0}, --minvel
-		  {x=0, y=0, z=0}, --maxvel
-		  {x=-0.5,y=4,z=-0.5}, --minacc
-		  {x=0.5,y=4,z=0.5}, --maxacc
-		  0.5, --minexptime
-		  1, --maxexptime
-		  1, --minsize
-		  2, --maxsize
-		  false, --collisiondetection
-		  "witchcraft_effect.png" --texture
-	       )
-	       item:replace("vessels:glass_bottle")
-	       return item
-	    end
-	 })
-   end
 end
