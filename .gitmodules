@@ -339,3 +339,15 @@
 	path = mods/witchcraft
 	url = https://github.com/sys4-fr/witchcraft.git
 	branch = fixes
+[submodule "mods/claycrafter"]
+	path = mods/claycrafter
+	url = https://github.com/Dragonop/claycrafter.git
+[submodule "mods/ethereal"]
+	path = mods/ethereal
+	url = https://github.com/tenplus1/ethereal.git
+[submodule "mods/spidermob"]
+	path = mods/spidermob
+	url = https://github.com/Darcidride/minetest-spidermob-v1.git
+[submodule "mods/unifiedwool"]
+	path = mods/unifiedwool
+	url = https://github.com/MT-Modder/unifiedwool.git
