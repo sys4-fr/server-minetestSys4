@@ -59,7 +59,6 @@ load_mod_homedecor_plastic = true
 load_mod_digiterm = true
 load_mod_digtron = true
 load_mod_display_blocks = true
-load_mod_ethereal = true
 load_mod_experience = true
 load_mod_farming = true
 load_mod_farming_plus = true
