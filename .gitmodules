@@ -100,15 +100,9 @@
 [submodule "mods/intllib"]
 	path = mods/intllib
 	url = https://github.com/minetest-mods/intllib.git
-[submodule "mods/digtron"]
-	path = mods/digtron
-	url = https://github.com/minetest-mods/digtron.git
 [submodule "mods/mydoors"]
 	path = mods/mydoors
 	url = https://github.com/minetest-mods/mydoors.git
-[submodule "mods/sounding_line"]
-	path = mods/sounding_line
-	url = https://github.com/minetest-mods/sounding_line.git
 [submodule "mods/mapfix"]
 	path = mods/mapfix
 	url = https://github.com/minetest-mods/mapfix.git
@@ -142,12 +136,6 @@
 [submodule "mods/painting"]
 	path = mods/painting
 	url = https://github.com/minetest-mods/painting.git
-[submodule "mods/display_blocks"]
-	path = mods/display_blocks
-	url = https://github.com/minetest-mods/display_blocks.git
-[submodule "mods/turtle"]
-	path = mods/turtle
-	url = https://github.com/minetest-mods/turtle.git
 [submodule "mods/digicompute"]
 	path = mods/digicompute
 	url = https://github.com/octacian/digicompute.git
@@ -166,9 +154,6 @@
 [submodule "mods/fishing"]
 	path = mods/fishing
 	url = https://github.com/MinetestForFun/fishing.git
-[submodule "mods/flags"]
-	path = mods/flags
-	url = https://github.com/bas080/flags.git
 [submodule "mods/flight"]
 	path = mods/flight
 	url = https://github.com/Amaz1/flight.git
@@ -226,9 +211,6 @@
 [submodule "mods/mysponge"]
 	path = mods/mysponge
 	url = https://github.com/DonBatman/mysponge.git
-[submodule "mods/nsspf"]
-	path = mods/nsspf
-	url = https://github.com/NPXcoot/nsspf.git
 [submodule "mods/orienteering"]
 	path = mods/orienteering
 	url = git://repo.or.cz/minetest_orienteering.git
@@ -247,9 +229,6 @@
 [submodule "mods/returnmirror"]
 	path = mods/returnmirror
 	url = git://repo.or.cz/minetest_returnmirror.git
-[submodule "mods/soccer"]
-	path = mods/soccer
-	url = https://github.com/kaeza/minetest-soccer.git
 [submodule "mods/sprint"]
 	path = mods/sprint
 	url = https://github.com/GunshipPenguin/sprint.git
@@ -286,9 +265,6 @@
 [submodule "mods/vines"]
 	path = mods/vines
 	url = https://github.com/bas080/vines.git
-[submodule "mods/volcano"]
-	path = mods/volcano
-	url = https://github.com/paramat/volcano.git
 [submodule "mods/weather_pack"]
 	path = mods/weather_pack
 	url = https://github.com/xeranas/weather_pack.git
